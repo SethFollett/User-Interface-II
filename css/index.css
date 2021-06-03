@@ -53,7 +53,7 @@ body{
     font-size:1.8rem;
     color:#4f4f4f;
     line-height:1.5;
-    background-color: lightgray;
+    background-color: #fff3fa;
 }
 h1, h2, h3{
     text-align:center;
@@ -83,7 +83,7 @@ header {
     margin: 20px; 
 }
 #headerborder {
-    background-color: hotpink;
+    background-color: #ffe6f5;
     height: 70%;
 }
 nav{
@@ -132,7 +132,7 @@ width: 20%;
     justify-content: center;
 }
 #footerbkg {
-    background-color: hotpink;
+    background-color: #ffe6f5;
     height: 250px;
     text-align: center;
 }
